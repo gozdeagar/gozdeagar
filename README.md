@@ -34,9 +34,10 @@ Data Analyst, SQL Developer, Traveler, Art Lover..
 	<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/jira.svg"><img title="jira" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/jira.svg" width="40" style="max-width: 100%;"></a>
 	<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg"><img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" style="max-width: 100%;"></a>
 	<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg"><img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="max-width: 100%;"></a>	
-	<a target="_blank" rel="noopener noreferrer nofollow" href=
+	<a target="_blank" rel="noopener noreferrer nofollow" href="http://cefexie.com/images/Power-BI-Logo.png"><img title="PowerBi" alt="PowerBi"
+ src="http://cefexie.com/images/Power-BI-Logo.png"width="40" style="max-width: 100%;"></a>
 	<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
-http://cefexie.com/images/Power-BI-Logo.png
+
 </p>
   
 <!--
