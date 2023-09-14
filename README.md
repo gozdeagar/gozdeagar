@@ -34,8 +34,8 @@ Data Analyst, SQL Developer, Traveler, Art Lover..
 	<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/jira.svg"><img title="jira" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/jira.svg" width="40" style="max-width: 100%;"></a>	
 	<a target="_blank" rel="noopener noreferrer nofollow" href="http://cefexie.com/images/Power-BI-Logo.png"><img title="PowerBi" alt="PowerBi"
  src="http://cefexie.com/images/Power-BI-Logo.png"width="40" style="max-width: 100%;"></a>
-	
-
+	<a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.worldvectorlogo.com/logos/excel-4.svg"><img title="Excel" alt="Excel"
+ src="http://cdn.worldvectorlogo.com/logos/excel-4.svg"width="40" style="max-width: 100%;"></a>
 </p>
   
 <!--
