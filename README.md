@@ -1,4 +1,5 @@
-### Hi there 👋  I'm a Junior Data Analyst, Traveler !!
+### Hi there 👋  I'm Gözde !!
+Data Analyst, Traveler!!
 
 - 🔭 I’m currently working on a project which is predict the risk of delaying loans of a bank.
 - 🌱 I’m currently learning SQL , Power BI , Python and Tableau
