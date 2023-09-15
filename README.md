@@ -8,11 +8,13 @@ Data Analyst, SQL Developer, Traveler, Art Lover..
      
 - ⚡ Python & Power BI Projects;
 <p
+	<a
  Using machine learning and forecasting to analyze credit risks or payments
  CAC/LTV calculation for campaign performance measurement and conversion rate
  Creating campaigns suitable for the appropriate customer by segmenting with RFM
  Discovering the customer pattern by making correlations to solve customer churn
  Interpreting the results according to the confidence interval by performing regression analysis and Z test/sample by avoiding systematic errors
+></a>
 </p>
 - 📫 How to reach me:
         gozde.agar.26@gmail.com
