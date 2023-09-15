@@ -46,7 +46,8 @@ src="https://www.w3.org/html/"width="60" style="max-width: 100%;"></a>
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"width="60" style="max-width: 100%;"></a>
 	<a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.worldvectorlogo.com/logos/excel-4.svg"><img title="Excel" alt="Excel"
  src="http://cdn.worldvectorlogo.com/logos/excel-4.svg"width="60" height="60" style="max-width: 100%;"></a>
-
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/Project_Jupyter#/media/File:Jupyter_logo.svg"><img title="Jupyter" alt="Jupyter"
+src="https://en.wikipedia.org/wiki/Project_Jupyter#/media/File:Jupyter_logo.svg"width="60" height="60" style="max-width: 100%;"></a>
 </p>
 
 <p dir="auto"><b>My Recent posts on Medium!</b></p>
