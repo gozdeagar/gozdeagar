@@ -47,8 +47,10 @@ Data Analyst, SQL Developer, Traveler, Art Lover..
 	<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg"><img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="max-width: 100%;"></a>
 	<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg"><img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="max-width: 100%;"></a>
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"><img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="max-width: 100%;"></a>
-	<a target="_blank" rel="noopener noreferrer nofollow" href="http://cefexie.com/images/Power-BI-Logo.png"><img title="PowerBi" alt="PowerBi"
- src="http://cefexie.com/images/Power-BI-Logo.png"width="40" style="max-width: 100%;"></a>
+	<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.w3.org/html/"><img title="html5" alt="html5"
+src="https://www.w3.org/html/"width="60" style="max-width: 100%;"></a>
+ 	<a target="_blank" rel="noopener noreferrer nofollow" href="http://cefexie.com/images/Power-BI-Logo.png"><img title="PowerBi" alt="PowerBi"
+ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"width="60" style="max-width: 100%;"></a>
 	<a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.worldvectorlogo.com/logos/excel-4.svg"><img title="Excel" alt="Excel"
  src="http://cdn.worldvectorlogo.com/logos/excel-4.svg"width="60" height="60" style="max-width: 100%;"></a>
 
