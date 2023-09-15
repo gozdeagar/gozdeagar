@@ -1,20 +1,20 @@
 ### Hi there 👋  I'm Gözde !!
 Data Analyst, SQL Developer, Traveler, Art Lover..
 
-- 🔭 
-- 🌱 
-- 👯 I’m looking to collaborate on anyone to start new project to practice
-- 🤔 I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science
+- 🔭 I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science
+- 🌱 I’m looking to collaborate on anyone to start new project to practice
+- 👯 
+- 🤔 
      
 - ⚡ Python & Power BI Projects;
 <p
-	<a
+
  Using machine learning and forecasting to analyze credit risks or payments
  CAC/LTV calculation for campaign performance measurement and conversion rate
  Creating campaigns suitable for the appropriate customer by segmenting with RFM
  Discovering the customer pattern by making correlations to solve customer churn
  Interpreting the results according to the confidence interval by performing regression analysis and Z test/sample by avoiding systematic errors
-></a>
+
 </p>
 - 📫 How to reach me:
         gozde.agar.26@gmail.com
