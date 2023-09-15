@@ -3,8 +3,7 @@ Data Analyst, SQL Developer, Traveler, Art Lover..
 
 - 🔭 I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science
 - 🌱 I’m looking to collaborate on anyone to start new project to practice
-- 👯 
-- 🤔 
+- 💬 Talk to me about Olympics, Art, Start Ups, Technology.. 
      
 - ⚡ Python & Power BI Projects;
 <p
@@ -19,17 +18,11 @@ Data Analyst, SQL Developer, Traveler, Art Lover..
 <p align="left">
 <a href="https://www.linkedin.com/in/gozdeagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gozdeagar/" height="30" width="40" /></a>
 <a href="https://medium.com/@gozde.agar.26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gozde.agar.26" height="40" width="40" /></a>
-	<a href="https://www.linkedin.com/in/gozdeagar/" target="blank"><img align="center" alt="linkedin" height="40" width="40" /></a>
 </p>
 
 
 </p>
-- 📫 How to reach me:
-        gozde.agar.26@gmail.com
-        https://www.linkedin.com/in/gozdeagar/
-        https://medium.com/@gozde.agar.26
 
-- 💬 Talk to me about Olympics, Art, Start Ups, Technology.. 
 
 <p align="center" dir="auto">
 
