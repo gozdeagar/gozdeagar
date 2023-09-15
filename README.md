@@ -34,7 +34,14 @@ Data Analyst, SQL Developer, Traveler, Art Lover..
  src="http://cefexie.com/images/Power-BI-Logo.png"width="40" style="max-width: 100%;"></a>
 	<a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.worldvectorlogo.com/logos/excel-4.svg"><img title="Excel" alt="Excel"
  src="http://cdn.worldvectorlogo.com/logos/excel-4.svg"width="60" height="60" style="max-width: 100%;"></a>
+
 </p>
+
+<p dir="auto"><b>My Recent posts on Medium!</b></p>
+<p dir="auto"><a href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0" rel="nofollow"><img src="https://camo.githubusercontent.com/7fe0b23f565844c0e34f0b45cd9b965128a49988cf7f6011690705f15c8576f6/68747470733a2f2f6769746875622d726561646d652d6d656469756d2d726563656e742d61727469636c652e76657263656c2e6170702f6d656469756d2f4074686f6d61732d67656f7267652d74686f6d61732f30" alt="Recent Article on medium 1" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/1" rel="nofollow"><img src="https://camo.githubusercontent.com/b613d6806c073f4f292edcba737d3db27b2a326889e454fe1216f1171ca4fec2/68747470733a2f2f6769746875622d726561646d652d6d656469756d2d726563656e742d61727469636c652e76657263656c2e6170702f6d656469756d2f4074686f6d61732d67656f7267652d74686f6d61732f31" alt="Recent Article on medium 2" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/1" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/2" rel="nofollow"><img src="https://camo.githubusercontent.com/e9d246cd62a3befb1f593df27c76ec95926e89d83d13b3c246a0f25313aa2cdf/68747470733a2f2f6769746875622d726561646d652d6d656469756d2d726563656e742d61727469636c652e76657263656c2e6170702f6d656469756d2f4074686f6d61732d67656f7267652d74686f6d61732f32" alt="Recent Article on medium 3" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/2" style="max-width: 100%;"></a></p>
+
   
 <!--
 **gozdeagar/gozdeagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
